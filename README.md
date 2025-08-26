@@ -20,6 +20,7 @@ The data for this project is sourced from kaggle dataset:
 - SQL Server Management Studio (SSMS)
 
 ## Schema
+
 ```
 DROP TABLE IF EXISTS marketing;
 CREATE TABLE marketing
